@@ -1,4 +1,4 @@
-CREATE DATABASE"Students"
+CREATE DATABASE "Students"
 
 USE [Students];
 GO
