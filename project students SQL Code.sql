@@ -102,14 +102,14 @@ INSERT INTO [dbo].[Time] VALUES
 
 INSERT INTO [dbo].[Person] VALUES 
 (1, N'Anna', N'Kowalska', N'Female', N'Bachelor', '2001-05-10', N'Warsaw', N'Warsaw', 123456),
-(2, N'Jan', N'Nowak', N'Male', N'Master', '2000-02-15', N'Gdañsk', N'Poznañ', 234567),
-(3, N'Maria', N'Zieliñska', N'Female', N'Bachelor', '2002-08-20', N'Lublin', N'Wroc³aw', 345678),
-(4, N'Piotr', N'Wiœniewski', N'Male', N'Engineer', '1999-12-01', N'Rzeszów', N'Warsaw', 456789);
+(2, N'Jan', N'Nowak', N'Male', N'Master', '2000-02-15', N'GdaÃ±sk', N'PoznaÃ±', 234567),
+(3, N'Maria', N'ZieliÃ±ska', N'Female', N'Bachelor', '2002-08-20', N'Lublin', N'WrocÂ³aw', 345678),
+(4, N'Piotr', N'WiÅ“niewski', N'Male', N'Engineer', '1999-12-01', N'RzeszÃ³w', N'Warsaw', 456789);
 
 INSERT INTO [dbo].[City] VALUES 
 (1, 'Krakow'),
 (2, 'Warsaw'),
-(3, 'Gdañsk'),
+(3, 'GdaÃ±sk'),
 (4, 'Lublin');
 
 INSERT INTO [dbo].[Payment_Method] VALUES 
